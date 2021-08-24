@@ -5,6 +5,7 @@
 ## Title-zhCN: 技能通报
 ## Notes: Click ActionBarButton to broadcast your spell cooldown
 ## Notes-zhCN: 点击动作条按钮广播你的技能冷却事件
+## Dependencies: Scorpio
 ## DefaultState: enabled
 
 Locales\Locale-zhCN.lua
